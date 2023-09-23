@@ -1,0 +1,22 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.associations": {
+    ".env.*": "properties"
+  },
+  "material-icon-theme.folders.associations": {
+    "core": "rules",
+    "adapters": "pipe",
+    "external": "tools",
+    "usuario": "admin"
+  },
+  "cSpell.words": [
+    "codepaths",
+    "elysia",
+    "repositorio",
+    "Repositorio",
+    "tsbuildinfo",
+    "usuario",
+    "usuarios"
+  ]
+}

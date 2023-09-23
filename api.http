@@ -1,0 +1,18 @@
+@baseUrl = http://localhost:3000
+
+
+
+### Lista de usuários
+GET {{baseUrl}}/usuarios HTTP/1.1
+Content-Type: application/application/json
+
+### obter usuário
+GET {{baseUrl}}/usuarios/10 HTTP/1.1
+Content-Type: application/application/json
+
+### cadastra usuário
+POST {{baseUrl}}/usuarios HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+
+nome=bari&email=barmai@email.com.br&senha=1234
+
